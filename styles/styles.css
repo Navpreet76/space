@@ -86,6 +86,9 @@ footer
 {
 	list-style: none;
 }
+.navbar navbar-inverse{
+	padding: 50px;
+}
 #nav ul
 {
 	margin: 0;

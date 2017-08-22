@@ -24,7 +24,9 @@
 			<li><a href="Shop.php">Shop</a></li>
 			<li><a href="Space.php">Space</a></li>
 			<li><a href="Company.php">About</a></li>
-			<li><a href="planets.php">Planets</a></li>
+			<li><a href="exoplanets.php">Exoplanets</a></li>
+      <li><a href="gallery.php">Gallery</a></li>
+      <li><a href="planets.php">Planets</a></li>
 			
 		</ul>
 	</nav>
@@ -43,10 +45,11 @@
       <li><a href="planets.php">Planets</a></li>
       <li><a href="galaxies.php">Galaxies</a></li>
       <li><a href="exoplanets.php">Exoplanets</a></li>
-      <li><a href="stars">Stars</a></li>
+      <li><a href="stars.php">Stars</a></li>
       <li><a href="comets.php">Comets</a></li>
       <li><a href="blackholes.php">Black Holes</a></li>
       <li><a href="gallery.php">Gallery</a></li>
+      <li><a href="Supernova.php">Super Nova</a></li>
       <li><a href="contact.php">Contact</a></li>
     </ul>
     <form class="navbar-form navbar-left">
