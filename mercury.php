@@ -9,21 +9,35 @@ include 'header.php'; ?>
 <body>
 <div id="wrapper">
 
-<div class="col-md-4">
-<h1>Mercury</h1>
-<div class="image">
-<img src="images/mercury1.jpg" alt="mercuryprofile" height="400" width="400">
-</div>
-</div>
+<div class="col-md-6">
+    	<div class="thumbnail">
+      		<a href="/images/mercury1.jpg">
+        	<img src="/images/mercury1.jpg" alt="mercury1" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Mercury</p>
+        	</div>
+      		</a>
+    	</div>
+  </div>
 <!-- <div id="mercury_content">
 <div id="inf">	 -->
 
 
-<div class="col-md-4">
+<div class="col-md-6">
 <h4>Named after the swift footed Roman God, Mercury is the closest planet to the Sun and as a result circles it faster than all the other planets. Mercury speeds around the sun every 88 Earth days, traveling through space at nearly 112,000 mph (180,000 km/h), faster than any other planet.</h4>
 <p>Its oval-shaped orbit is highly elliptical, taking Mercury as close as 29 million miles (47 million km) and as far as 43 million miles (70 million km) from the sun. If one could stand on Mercury when it is nearest to the sun, it would appear more than three times as large as it does when viewed from Earth.</p>
 </div>
-<div class="col-md-4">
+<div class="col-md-6">
+    	<div class="thumbnail">
+      		<a href="/images/mercury3.jpg">
+        	<img src="/images/mercury3.jpg" alt="mercury3" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Mercury</p>
+        	</div>
+      		</a>
+    	</div>
+  </div>
+<div class="col-md-6">
 <h4>Temperatures on Mercury's surface can reach 840 degrees Fahrenheit (450 degrees Celsius).</h4><p>Because the planet has no atmosphere to retain that heat, nighttime temperatures on the surface can drop to -280 degrees Fahrenheit (-170 degrees Celsius). This extreme temperature swing of over 1100 degrees is the greatest in the Solar System. </p>
 <p>Mercury is the second densest planet after Earth, with a huge metallic core roughly 2,200 to 2,400 miles (3,600 to 3,800 km) wide, or about 75 percent of the planet's diameter. In comparison, Mercury's outer shell is only 300 to 400 miles (500 to 600 km) thick. The combination of its massive core and abundance of volatile elements has left scientists puzzled for years.</p>
 

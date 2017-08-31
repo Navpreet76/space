@@ -17,36 +17,188 @@ include 'header.php'; ?>
 <div id="wrapper">
 <div id="planets_content">
 <h1>Planets of the Solar System.</h1>
-<ul>
-	<div class="col-md-4">
-	<li><a href="mercury.php"><h1>Mercury</h1></a> <img src="images/mercury1.jpg" alt="mercuryprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="venus.php"><h1>Venus</h1></a>  <img src="images/venus3.jpg" alt="venusprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="earth.php"><h1>Earth</h1></a>  <img src="images/earth.jpg" alt="earthprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="mars.php"><h1>Mars</h1></a>  <img src="images/mars.jpg" alt="marsprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="jupiter.php"><h1>Jupiter</h1></a>  <img src="images/jupiter.jpg" alt="jupiterprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="saturn.php"><h1>Saturn</h1></a>  <img src="images/saturn.jpg" alt="saturnprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="Uranus.php"><h1>Uranus</h1></a>  <img src="images/uranus2.jpg" alt="uranusprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="neptune.php"><h1>Neptune</h1></a>  <img src="images/Neptune.jpg" alt="neptuneprofile" height="200" width="200"></li>
-	</div>
-	<div class="col-md-4">
-	<li><a href="pluto.php"><h1>Pluto</h1></a>  <img src="images/pluto.jpg" alt="plutoprofile" height="200" width="200"></li>
-	</div>
 
-</ul>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The closest planet to the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/mercury1.jpg">
+        	<img src="/images/mercury1.jpg" alt="mercury1" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Mercury.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="mercury.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Mercury</button></a></div>
+	</div>
+</div>
+</div>
+	<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The Second Planet from the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/venus3.jpg">
+        	<img src="/images/venus3.jpg" alt="mercury1" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Venus.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="venus.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Venus</button></a></div>
+	</div>
+</div>
+</div>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">Third planet from the sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/earth.jpg">
+        	<img src="/images/earth.jpg" alt="mercury1" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Earth.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="earth.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Earth</button></a></div></div>
+	</div>
+</div>
+</div>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The Second Planet from the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/mars.jpg">
+        	<img src="/images/mars.jpg" alt="mars" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Mars.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="mars.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Mars</button></a></div>
+	</div>
+</div>
+</div>
+	<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The Second Planet from the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/jupiter.jpg">
+        	<img src="/images/jupiter.jpg" alt="mars" style="width:90%"></a>
+        	<div class="caption">
+          		<p>Mars.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="jupiter.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Jupiter</button></a></div>
+	</div>
+</div>
+</div>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The Second Planet from the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/saturn.jpg">
+        	<img src="/images/saturn.jpg" alt="saturn" style="width:90%;height:400px"></a>
+        	<div class="caption">
+          		<p>Saturn.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="saturn.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Saturn</button></a></div>
+	</div>
+</div>
+</div>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The Second Planet from the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/uranus2.jpg">
+        	<img src="/images/uranus2.jpg" alt="saturn" style="width:90%;height:400px"></a>
+        	<div class="caption">
+          		<p>Uranus.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="saturn.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Saturn</button></a></div>
+	</div>
+</div>
+</div>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">Home to the fastest winds in the Solar System.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/neptune.jpg">
+        	<img src="/images/neptune.jpg" alt="neptune" style="width:90%;"></a>
+        	<div class="caption">
+          		<p>Neptune.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="neptune.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Neptune</button></a></div>
+	</div>
+</div>
+</div>
+<div class="col-md-4">	
+<div class="panel-group">
+	<div class="panel panel-primary">
+		<div class="panel-heading">The Second Planet from the Sun.</div>
+		<div class="panel-body">
+			<div class="thumbnail">
+      		<a href="images/pluto.jpg">
+        	<img src="/images/pluto.jpg" alt="pluto" style="width:90%;"></a>
+        	<div class="caption">
+          		<p>Dwarf planet Pluto.</p>
+        	</div>
+      		</a>
+    	</div>
+    	
+  	
+		</div>
+		<div class="panel-footer"><a href="pluto.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Pluto</button></a></div>
+	</div>
+</div>
+</div>
+
 
 
 </div>
