@@ -8,18 +8,30 @@ body h1,h2,h3,h4,h5,h6
 {
 	text-decoration: none;
 }
-h4 {
-	
+body hr{
+	/*background-color: #000!important;*/
 }
 body p
 {
-	/*font-size: 0.8em;
-	line-height: 1.28;*/
+	
+}
+header a{
+	width: 145px;
 }
 #mercury1 {
 	border-bottom: 10px solid red;
 }
-
+footer a{
+	width: 240px;
+}
+button.btn.btn-info{
+	background-color: #FF4500;
+	
+	
+}
+button.btn.btn-warning{
+	background-color: #FF4500;
+}
 #wrapper
 {
 	height: auto;
@@ -30,7 +42,9 @@ body p
 	padding: 10px;
 	
 }
-
+button{
+	width: 200px;
+}
 
 #banner
 {
@@ -67,11 +81,11 @@ footer
 	width: auto;
 	height: 40px;
 	padding: 10px;
-	border: 3px solid #E3E3E3;
+	/*border: 3px solid #E3E3E3;*/
 	text-align: center;
 	color: #fff;
 	text-shadow: 0.1em 0.1em #333;
-	background-image: url(../images/space5.jpg);	
+	/*background-image: url(../images/space5.jpg);*/	
 
 }
 #navigation
@@ -190,9 +204,7 @@ a.navbar-brand{
 	list-style-type: none;
 
 }
-.col-md-4 h4{
-	
-}
+
 .col-md-12 {
 	margin: 30px 0px 30px 0px;
 }

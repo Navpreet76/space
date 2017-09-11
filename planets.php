@@ -25,7 +25,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/mercury1.jpg">
-        	<img src="/images/mercury1.jpg" alt="mercury1" style="width:90%"></a>
+        	<img src="/images/mercury1.jpg" alt="mercury1" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Mercury.</p>
         	</div>
@@ -45,7 +45,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/venus3.jpg">
-        	<img src="/images/venus3.jpg" alt="mercury1" style="width:90%"></a>
+        	<img src="/images/venus3.jpg" alt="mercury1" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Venus.</p>
         	</div>
@@ -65,7 +65,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/earth.jpg">
-        	<img src="/images/earth.jpg" alt="mercury1" style="width:90%"></a>
+        	<img src="/images/earth.jpg" alt="mercury1" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Earth.</p>
         	</div>
@@ -85,7 +85,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/mars.jpg">
-        	<img src="/images/mars.jpg" alt="mars" style="width:90%"></a>
+        	<img src="/images/mars.jpg" alt="mars" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Mars.</p>
         	</div>
@@ -105,7 +105,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/jupiter.jpg">
-        	<img src="/images/jupiter.jpg" alt="mars" style="width:90%"></a>
+        	<img src="/images/jupiter.jpg" alt="mars" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Mars.</p>
         	</div>
@@ -125,7 +125,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/saturn.jpg">
-        	<img src="/images/saturn.jpg" alt="saturn" style="width:90%;height:400px"></a>
+        	<img src="/images/saturn.jpg" alt="saturn" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Saturn.</p>
         	</div>
@@ -145,7 +145,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/uranus2.jpg">
-        	<img src="/images/uranus2.jpg" alt="saturn" style="width:90%;height:400px"></a>
+        	<img src="/images/uranus2.jpg" alt="saturn" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Uranus.</p>
         	</div>
@@ -154,7 +154,7 @@ include 'header.php'; ?>
     	
   	
 		</div>
-		<div class="panel-footer"><a href="saturn.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Saturn</button></a></div>
+		<div class="panel-footer"><a href="saturn.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Neptune</button></a></div>
 	</div>
 </div>
 </div>
@@ -165,7 +165,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/neptune.jpg">
-        	<img src="/images/neptune.jpg" alt="neptune" style="width:90%;"></a>
+        	<img src="/images/neptune.jpg" alt="neptune" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Neptune.</p>
         	</div>
@@ -185,7 +185,7 @@ include 'header.php'; ?>
 		<div class="panel-body">
 			<div class="thumbnail">
       		<a href="images/pluto.jpg">
-        	<img src="/images/pluto.jpg" alt="pluto" style="width:90%;"></a>
+        	<img src="/images/pluto.jpg" alt="pluto" style="width:80%;height: 350px"></a>
         	<div class="caption">
           		<p>Dwarf planet Pluto.</p>
         	</div>

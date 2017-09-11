@@ -36,8 +36,9 @@
 <div id="wrapper">
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
+  <header>
     <div class="navbar-header">
-      <a class="navbar-brand" href="http://www.google.com">Space</a>
+      <a class="navbar-brand" href="index.php">Space</a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="index.php">Home</a></li>
@@ -45,18 +46,19 @@
       <li><a href="galaxies.php">Galaxies</a></li>
       <li><a href="exoplanets.php">Exoplanets</a></li>
       <li><a href="stars.php">Stars</a></li>
-      <li><a href="comets.php">Comets</a></li>
+      <li><a href="mysteries.php">Mysteries</a></li>
       <li><a href="blackholes.php">Black Holes</a></li>
       <li><a href="gallery.php">Gallery</a></li>
       <li><a href="Supernova.php">Super Nova</a></li>
       <li><a href="contact.php">Contact</a></li>
     </ul>
-    <form class="navbar-form navbar-left">
+    <!-- <form class="navbar-form navbar-left">
       <div class="form-group">
         <input type="text" class="form-control" placeholder="Search">
       </div>
       <button type="submit" class="btn btn-default">Submit</button>
-    </form>
+    </form> -->
+    </header>
   </div>
 </nav>
 </div>
