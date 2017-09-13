@@ -7,7 +7,6 @@
 <body>
 <div class="wrapper">
   <div class="col-md-4">
-    <h1>Types of Galaxies</h1>
     <button type="button" class="btn btn-danger" data-toggle ="collapse" data-target="#demo"><h4>Types of Galaxies</h4></button>
     <hr>
       <div id="demo" class="collapse">
