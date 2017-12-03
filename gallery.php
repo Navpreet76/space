@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>Gallery Page</h1>
+<?php include 'footer.php' ?>
 </body>
 </html>

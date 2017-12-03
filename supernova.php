@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>Supernovas, Gamma Ray Burst, Solar Flares etc...</h1>
+<?php include 'footer.php' ?>
 </body>
 </html>

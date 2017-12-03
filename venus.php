@@ -7,7 +7,7 @@ include 'header.php'; ?>
 </head>
 <body>
 <div id="wrapper">
-<div class="col-md-8">
+<div class="col-md-12">
   <div class="panel-group" id="accordion">
     <div class="panel panel-danger">
       <div class="panel-heading">
@@ -113,14 +113,8 @@ include 'header.php'; ?>
 
 
 
-<div class="col-md-4">
 
-<div id="mercury_content">
-<img src="images/venus3.jpg" alt="venus3" height="300" width="300">
-
-</div>
-</div>
-<div class="col-md-4">
+<div class="col-md-12">
 <p>The Russians sent the first mission to Venus. 
 The Venera 1 space probe was launched in 1961, but lost contact with base. The USA also lost their first probe to Venus, Mariner 1, although Mariner 2 was able to take measurements of the planet in 1962. The Soviet Union’s Venera 3 was the first man-made craft to land on Venus in 1966.</p>
 <h4>At one point it was thought Venus might be a tropical paradise. </h4>
@@ -132,8 +126,9 @@ The Venera 1 space probe was launched in 1961, but lost contact with base. The U
 
 
 
-<?php include 'footer.php'; ?>
+
 </div>
+<?php include 'footer.php'; ?>
 </div>
 </body>
 </html>

@@ -8,7 +8,7 @@ include 'header.php'; ?>
 </head>
 <body>
 <div id="wrapper">
-<div class="col-md-8">
+<div class="col-md-12">
   <div class="panel-group" id="accordion">
     <div class="panel panel-danger">
       <div class="panel-heading">
@@ -59,15 +59,15 @@ include 'header.php'; ?>
       </div>
     </div> 
   </div>
-  <h1>Interesting facts about Mercury</h1>
+  
 </div>
 </div>
 </div>
 </div>
-<div class="col-md-4">
+<div class="col-md-6">
       <div class="thumbnail">
           <a href="/images/mercury1.jpg">
-          <img src="/images/mercury1.jpg" alt="mercury1" style="width:90%"></a>
+          <img src="/images/mercury1.jpg" alt="mercury1" style="width:90%; height:750px"></a>
           <div class="caption">
               <p>Mercury</p>
           </div>
@@ -75,10 +75,10 @@ include 'header.php'; ?>
       </div>
   </div> 
   <hr>
-<div class="col-md-4">
+<div class="col-md-6">
       <div class="thumbnail">
           <a href="/images/mercury3.jpg">
-          <img src="/images/mercury3.jpg" alt="mercury3" style="width:90%"></a>
+          <img src="/images/mercury3.jpg" alt="mercury3" style="width:90%; height:750px"></a>
           <div class="caption">
               <p>Mercury</p>
           </div>
@@ -126,25 +126,26 @@ include 'header.php'; ?>
       </div>
 </div>
  -->
-<div class="col-md-4">
+<div class="col-md-6">
     	<div class="thumbnail">
       		<a href="/images/mercury4.jpg">
-        	<img src="/images/mercury4.jpg" alt="mercury5" style="width:90%"></a>
+        	<img src="/images/mercury4.jpg" alt="mercury5" style="width:90%; height:750px"></a>
         	<div class="caption">
           		<p>Mercury</p>
         	</div>
       		</a>
     	</div>
   </div>
-<div class="col-md-4">
+<div class="col-md-6">
       <div class="thumbnail">
           <a href="/images/mercury5.jpg">
-          <img src="/images/mercury5.jpg" alt="mercury5" style="width:90%; height: 515px"></a>
+          <img src="/images/mercury5.jpg" alt="mercury5" style="width:90%; height:750px"></a>
           <div class="caption">
               <p>Mercury</p>
           </div>
           </a>
       </div>
+  </div>
   </div>
 <?php include 'footer.php'; ?>
 </div>
