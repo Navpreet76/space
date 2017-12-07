@@ -154,7 +154,7 @@ include 'header.php'; ?>
     	
   	
 		</div>
-		<div class="panel-footer"><a href="saturn.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Neptune</button></a></div>
+		<div class="panel-footer"><a href="uranus.php"><button class="btn btn-danger navbar-btn" style="width:50%">Facts about Uranus</button></a></div>
 	</div>
 </div>
 </div>

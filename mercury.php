@@ -146,6 +146,7 @@ include 'header.php'; ?>
           </a>
       </div>
   </div>
+<a href="planets.php" class="btn btn-info" role="button">Back to Planets page</a>
   </div>
 <?php include 'footer.php'; ?>
 </div>

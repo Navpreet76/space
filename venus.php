@@ -35,6 +35,10 @@ include 'header.php'; ?>
 		A year on Venus takes 225 Earth days.
 		The surface temperature on Venus can reach 471 °C.
 		</h4>
+    <p>The Russians sent the first mission to Venus. 
+    The Venera 1 space probe was launched in 1961, but lost contact with base. The USA also lost their first probe to Venus, Mariner 1, although Mariner 2 was able to take measurements of the planet in 1962. The Soviet Union’s Venera 3 was the first man-made craft to land on Venus in 1966.</p>
+    <h4>At one point it was thought Venus might be a tropical paradise. </h4>
+    <p>The dense clouds of sulphuric acid surrounding Venus make it impossible to view its surface from outside its atmosphere. It was only when radio mapping was developed in the 1960s that scientists were able to observe and measure the extreme temperatures and hostile environment. It is thought Venus did once have oceans but these evaporated as the planets temperature increased.</p>
 		</div>
 
         </div>
@@ -76,7 +80,6 @@ include 'header.php'; ?>
       </div>
     </div> 
   </div>
-  <h1>Interesting facts about Venus</h1>
 </div>
 </div>
 </div>
@@ -110,23 +113,7 @@ include 'header.php'; ?>
           </a>
       </div>
   </div>
-
-
-
-
-<div class="col-md-12">
-<p>The Russians sent the first mission to Venus. 
-The Venera 1 space probe was launched in 1961, but lost contact with base. The USA also lost their first probe to Venus, Mariner 1, although Mariner 2 was able to take measurements of the planet in 1962. The Soviet Union’s Venera 3 was the first man-made craft to land on Venus in 1966.</p>
-<h4>At one point it was thought Venus might be a tropical paradise. </h4>
-<p>The dense clouds of sulphuric acid surrounding Venus make it impossible to view its surface from outside its atmosphere. It was only when radio mapping was developed in the 1960s that scientists were able to observe and measure the extreme temperatures and hostile environment. It is thought Venus did once have oceans but these evaporated as the planets temperature increased.</p>
-</div>
-
-
-
-
-
-
-
+<a href="planets.php" class="btn btn-info" role="button">Back to Planets page</a>
 </div>
 <?php include 'footer.php'; ?>
 </div>
